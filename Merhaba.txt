@@ -1,1 +1,4 @@
-print("selam ben ilker")
+print("sfdghjklş")
+aslkgsksfhod
+alsşkdjsfh
+fghjkl
